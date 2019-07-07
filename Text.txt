@@ -1,3 +1,5 @@
 aaabbbcccdddeeefffggg
 kangaroo
 wombat
+bat
+whale
