@@ -1,3 +1,4 @@
 aaabbbcccdddeeefffggg
 kangaroo
 wombat
+bat
